@@ -1,0 +1,35 @@
+ul{
+    list-style-type: none;
+}
+
+li {
+    float: left;
+    padding-left: 20px;
+    text-decoration: none;
+    margin-bottom:10%;
+    padding: 5px;
+    margin: 5px;
+
+}
+.mg1{
+    height: 50px;
+    width: 150px;
+}
+
+li a {
+    text-decoration: none;
+    font-size: 18px;
+    color: rgb(37, 37, 37);
+  
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.search-form {
+    display: flex;
+
+
+}
+
+.dropdown-toggle{
+    flex: 1;
+}
